@@ -1,0 +1,61 @@
+{
+  "packages": [
+    {
+      "id": 1,
+      "title": "Victoria Falls Extreme",
+      "type": "Adventure",
+      "location": "Matabeleland North",
+      "description": "5-day adventure package including bungee jumping, white water rafting, and helicopter flight over the falls.",
+      "price": 1200,
+      "duration": "5 Days",
+      "image": "assets/victoria-falls-featured.jpg",
+      "highlights": [
+        "Bungee jumping off Victoria Falls Bridge",
+        "White water rafting on the Zambezi",
+        "Helicopter flight over the falls",
+        "Guided tour of the rainforest"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival & Sunset Cruise",
+          "description": "Arrive at Victoria Falls, check into your hotel. Evening sunset cruise on the Zambezi River."
+        },
+        {
+          "day": 2,
+          "title": "Adventure Day",
+          "description": "Full day of activities including bungee jumping and white water rafting."
+        }
+      ],
+      "included": [
+        "4 nights accommodation",
+        "All adventure activities",
+        "Daily breakfast",
+        "Airport transfers"
+      ],
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Ancient Zimbabwe Tour",
+      "type": "Educational",
+      "location": "Masvingo",
+      "description": "3-day immersive experience exploring the Great Zimbabwe ruins with expert historians.",
+      "price": 850,
+      "duration": "3 Days",
+      "image": "assets/great-zimbabwe-featured.jpg",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Nyanga Mountain Retreat",
+      "type": "Wellness",
+      "location": "Manicaland",
+      "description": "7-day wellness retreat with yoga, spa treatments, and nature walks in the Eastern Highlands.",
+      "price": 1500,
+      "duration": "7 Days",
+      "image": "assets/nyanga-featured.jpg",
+      "featured": true
+    }
+  ]
+}
